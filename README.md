@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" height="100" src="https://github-readme-stats.vercel.app/api?username=chenaoxuan&show_icons=true&count_private=true" alt="chenaoxuan's GitHub stats">
+    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api?username=chenaoxuan&show_icons=true&count_private=true" alt="chenaoxuan's GitHub stats">
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenaoxuan&layout=compact" alt="Top Langs">
+    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenaoxuan&layout=compact" alt="Top Langs">
   </a>
 </div>
